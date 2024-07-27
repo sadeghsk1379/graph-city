@@ -1,0 +1,15 @@
+RoadID:1, From:Vanak, To:Tajrish, Distance:5.0, Traffic:Moderate, TravelTime:15
+RoadID:2, From:Tajrish, To:Niavaran, Distance:3.0, Traffic:Heavy, TravelTime:20
+RoadID:3, From:Vanak, To:Mirdamad, Distance:2.5, Traffic:Light, TravelTime:7
+RoadID:4, From:Mirdamad, To:Shariati, Distance:1.8, Traffic:Moderate, TravelTime:10
+RoadID:5, From:Shariati, To:Enghelab, Distance:6.5, Traffic:Heavy, TravelTime:25
+RoadID:6, From:Enghelab, To:Azadi, Distance:4.0, Traffic:Moderate, TravelTime:12
+RoadID:7, From:Azadi, To:Tehranpars, Distance:12.0, Traffic:Heavy, TravelTime:35
+RoadID:8, From:Tehranpars, To:Punak, Distance:8.0, Traffic:Light, TravelTime:20
+RoadID:9, From:Punak, To:Vanak, Distance:6.0, Traffic:Moderate, TravelTime:15
+RoadID:10, From:Vanak, To:Elahiyeh, Distance:3.5, Traffic:Heavy, TravelTime:15
+RoadID:11, From:Elahiyeh, To:Vanak, Distance:3.5, Traffic:Moderate, TravelTime:10
+RoadID:12, From:Vanak, To:Tajrish, Distance:5.0, Traffic:Moderate, TravelTime:15
+RoadID:13, From:Azadi, To:Tehranpars, Distance:12.0, Traffic:Heavy, TravelTime:40
+RoadID:14, From:Azadi, To:Vanak, Distance:7.5, Traffic:Light, TravelTime:20
+RoadID:15, From:Mirdamad, To:Niavaran, Distance:6.5, Traffic:Moderate, TravelTime:18

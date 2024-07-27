@@ -1,0 +1,61 @@
+Graph Information:
+==================
+
+Node: Vanak
+Connected to:
+  - Tajrish (Travel Time: 15)
+  - Mirdamad (Travel Time: 7)
+  - Punak (Travel Time: 15)
+  - Elahiyeh (Travel Time: 10)
+  - Azadi (Travel Time: 20)
+
+Node: Tajrish
+Connected to:
+  - Vanak (Travel Time: 15)
+  - Niavaran (Travel Time: 20)
+
+Node: Niavaran
+Connected to:
+  - Tajrish (Travel Time: 20)
+  - Mirdamad (Travel Time: 18)
+  - Elahiyeh (Travel Time: 35)
+
+Node: Mirdamad
+Connected to:
+  - Vanak (Travel Time: 7)
+  - Shariati (Travel Time: 10)
+  - Niavaran (Travel Time: 18)
+
+Node: Shariati
+Connected to:
+  - Mirdamad (Travel Time: 10)
+  - Enghelab (Travel Time: 25)
+
+Node: Enghelab
+Connected to:
+  - Shariati (Travel Time: 25)
+  - Azadi (Travel Time: 12)
+
+Node: Azadi
+Connected to:
+  - Enghelab (Travel Time: 12)
+  - Tehranpars (Travel Time: 40)
+  - Vanak (Travel Time: 20)
+  - Punak (Travel Time: 35)
+
+Node: Tehranpars
+Connected to:
+  - Azadi (Travel Time: 40)
+  - Punak (Travel Time: 20)
+
+Node: Punak
+Connected to:
+  - Tehranpars (Travel Time: 20)
+  - Vanak (Travel Time: 15)
+  - Azadi (Travel Time: 35)
+
+Node: Elahiyeh
+Connected to:
+  - Vanak (Travel Time: 10)
+  - Niavaran (Travel Time: 35)
+
